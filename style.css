@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: orange;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 5px;
+}
+.haft img{
+    width: 100%;
+}
